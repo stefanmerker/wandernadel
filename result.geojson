@@ -1,0 +1,321 @@
+{
+  "bbox": [ 8.681496, 49.414601, 114.0, 8.687872, 49.420318, 119.0 ],
+  "features": [
+    {
+      "bbox": [ 8.681496, 49.414601, 114.0, 8.687872, 49.420318, 119.0 ],
+      "type": "Feature",
+      "properties": {
+        "ascent": 3.9,
+        "descent": 1.3,
+        "segments": [
+          {
+            "distance": 875.5,
+            "duration": 630.3,
+            "steps": [
+              {
+                "distance": 5.3,
+                "duration": 3.8,
+                "type": 11,
+                "instruction": "Weiter ˆstlich auf Gerhart-Hauptmann-Straﬂe",
+                "name": "Gerhart-Hauptmann-Straﬂe",
+                "way_points": [ 0, 1 ]
+              },
+              {
+                "distance": 5.9,
+                "duration": 4.2,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 1, 3 ]
+              },
+              {
+                "distance": 52.3,
+                "duration": 37.7,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 3, 5 ]
+              },
+              {
+                "distance": 302.7,
+                "duration": 218.0,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 5, 22 ]
+              },
+              {
+                "distance": 11.2,
+                "duration": 8.1,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 22, 27 ]
+              },
+              {
+                "distance": 16.0,
+                "duration": 11.5,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 27, 31 ]
+              },
+              {
+                "distance": 50.7,
+                "duration": 36.5,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 31, 35 ]
+              },
+              {
+                "distance": 129.1,
+                "duration": 92.9,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 35, 42 ]
+              },
+              {
+                "distance": 10.6,
+                "duration": 7.6,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 42, 46 ]
+              },
+              {
+                "distance": 44.6,
+                "duration": 32.1,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 46, 47 ]
+              },
+              {
+                "distance": 234.7,
+                "duration": 169.0,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 47, 57 ]
+              },
+              {
+                "distance": 5.1,
+                "duration": 3.7,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 57, 59 ]
+              },
+              {
+                "distance": 5.2,
+                "duration": 3.7,
+                "type": 1,
+                "instruction": "Biegen Sie rechts auf Moltkestraﬂe ab",
+                "name": "Moltkestraﬂe",
+                "way_points": [ 59, 60 ]
+              },
+              {
+                "distance": 1.9,
+                "duration": 1.4,
+                "type": 0,
+                "instruction": "Biegen Sie links auf Werderplatz ab",
+                "name": "Werderplatz",
+                "way_points": [ 60, 61 ]
+              },
+              {
+                "distance": 0.0,
+                "duration": 0.0,
+                "type": 10,
+                "instruction": "Sie erreichen Werderplatz (rechts)",
+                "name": "-",
+                "way_points": [ 61, 61 ]
+              }
+            ],
+            "ascent": 3.8977852630615217,
+            "descent": 0.2518103408813488
+          },
+          {
+            "distance": 193.7,
+            "duration": 139.4,
+            "steps": [
+              {
+                "distance": 6.6,
+                "duration": 4.8,
+                "type": 11,
+                "instruction": "Weiter nˆrdlich auf Werderplatz",
+                "name": "Werderplatz",
+                "way_points": [ 61, 62 ]
+              },
+              {
+                "distance": 10.2,
+                "duration": 7.3,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 62, 65 ]
+              },
+              {
+                "distance": 28.1,
+                "duration": 20.2,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 65, 67 ]
+              },
+              {
+                "distance": 53.7,
+                "duration": 38.7,
+                "type": 0,
+                "instruction": "Biegen Sie links ab",
+                "name": "-",
+                "way_points": [ 67, 70 ]
+              },
+              {
+                "distance": 13.7,
+                "duration": 9.8,
+                "type": 1,
+                "instruction": "Biegen Sie rechts ab",
+                "name": "-",
+                "way_points": [ 70, 72 ]
+              },
+              {
+                "distance": 16.7,
+                "duration": 12.0,
+                "type": 0,
+                "instruction": "Biegen Sie links auf Werderplatz ab",
+                "name": "Werderplatz",
+                "way_points": [ 72, 73 ]
+              },
+              {
+                "distance": 64.7,
+                "duration": 46.6,
+                "type": 1,
+                "instruction": "Biegen Sie rechts auf Roonstraﬂe ab",
+                "name": "Roonstraﬂe",
+                "way_points": [ 73, 74 ]
+              },
+              {
+                "distance": 0.0,
+                "duration": 0.0,
+                "type": 10,
+                "instruction": "Sie erreichen Roonstraﬂe (geradeaus)",
+                "name": "-",
+                "way_points": [ 74, 74 ]
+              }
+            ],
+            "descent": 1.0125000000000028
+          }
+        ],
+        "summary": {
+          "distance": 1069.2,
+          "duration": 769.6999999999999
+        },
+        "way_points": [ 0, 61, 74 ]
+      },
+      "geometry": {
+        "coordinates": [
+          [ 8.681496, 49.414601, 114.0 ],
+          [ 8.681569, 49.414605, 114.0 ],
+          [ 8.681577, 49.414643, 114.0 ],
+          [ 8.68158, 49.414658, 114.0 ],
+          [ 8.681938, 49.414636, 114.0 ],
+          [ 8.682299, 49.414608, 114.0 ],
+          [ 8.682374, 49.414986, 114.1 ],
+          [ 8.682468, 49.41554, 114.2 ],
+          [ 8.682487, 49.41569, 114.3 ],
+          [ 8.682493, 49.415706, 114.3 ],
+          [ 8.682504, 49.415738, 114.4 ],
+          [ 8.682514, 49.415765, 114.4 ],
+          [ 8.68252, 49.415784, 114.5 ],
+          [ 8.682531, 49.415856, 114.5 ],
+          [ 8.682581, 49.416261, 114.7 ],
+          [ 8.682601, 49.416447, 114.8 ],
+          [ 8.682603, 49.416457, 114.8 ],
+          [ 8.682613, 49.416494, 114.9 ],
+          [ 8.682618, 49.416515, 114.9 ],
+          [ 8.682623, 49.416537, 114.9 ],
+          [ 8.682628, 49.416606, 114.9 ],
+          [ 8.682628, 49.417295, 115.0 ],
+          [ 8.682626, 49.417317, 115.0 ],
+          [ 8.682643, 49.417318, 115.0 ],
+          [ 8.682675, 49.417318, 115.0 ],
+          [ 8.682699, 49.417319, 115.0 ],
+          [ 8.682715, 49.41732, 115.0 ],
+          [ 8.682781, 49.417319, 115.0 ],
+          [ 8.682781, 49.417339, 115.0 ],
+          [ 8.682782, 49.417388, 115.0 ],
+          [ 8.682781, 49.417437, 115.0 ],
+          [ 8.68278, 49.417463, 115.0 ],
+          [ 8.68281, 49.417463, 115.0 ],
+          [ 8.683295, 49.417458, 115.0 ],
+          [ 8.683378, 49.417456, 115.0 ],
+          [ 8.683481, 49.417456, 115.0 ],
+          [ 8.683477, 49.41755, 115.1 ],
+          [ 8.683352, 49.41806, 115.6 ],
+          [ 8.683224, 49.418504, 116.1 ],
+          [ 8.683221, 49.418521, 116.2 ],
+          [ 8.683217, 49.418555, 116.3 ],
+          [ 8.683213, 49.418582, 116.4 ],
+          [ 8.683209, 49.418602, 116.5 ],
+          [ 8.683239, 49.418609, 116.6 ],
+          [ 8.683285, 49.418613, 116.7 ],
+          [ 8.683325, 49.418617, 116.8 ],
+          [ 8.683353, 49.41862, 116.8 ],
+          [ 8.683254, 49.419017, 116.8 ],
+          [ 8.683478, 49.419046, 116.8 ],
+          [ 8.684397, 49.419149, 116.8 ],
+          [ 8.684958, 49.419206, 116.6 ],
+          [ 8.684972, 49.419208, 116.6 ],
+          [ 8.68503, 49.419215, 116.6 ],
+          [ 8.685085, 49.41922, 116.6 ],
+          [ 8.68511, 49.419223, 116.6 ],
+          [ 8.685454, 49.419261, 116.7 ],
+          [ 8.685727, 49.419283, 116.8 ],
+          [ 8.686455, 49.419359, 117.2 ],
+          [ 8.686451, 49.419364, 117.3 ],
+          [ 8.686439, 49.419404, 117.4 ],
+          [ 8.68651, 49.419413, 117.5 ],
+          [ 8.686506, 49.41943, 117.6 ],
+          [ 8.686495, 49.419489, 119.0 ],
+          [ 8.686521, 49.419491, 119.0 ],
+          [ 8.686539, 49.419492, 119.0 ],
+          [ 8.686528, 49.419555, 119.0 ],
+          [ 8.686656, 49.419565, 119.0 ],
+          [ 8.686914, 49.419586, 119.0 ],
+          [ 8.686889, 49.419703, 119.0 ],
+          [ 8.686884, 49.419727, 119.0 ],
+          [ 8.686825, 49.420065, 118.7 ],
+          [ 8.686882, 49.42007, 118.5 ],
+          [ 8.687013, 49.420078, 118.4 ],
+          [ 8.686989, 49.420228, 118.3 ],
+          [ 8.687872, 49.420318, 118.0 ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ],
+  "metadata": {
+    "attribution": "openrouteservice.org | OpenStreetMap contributors",
+    "service": "routing",
+    "timestamp": 1622113203557,
+    "query": {
+      "coordinates": [
+        [ 8.681495, 49.41461 ],
+        [ 8.686507, 49.41943 ],
+        [ 8.687872, 49.420318 ]
+      ],
+      "profile": "foot-hiking",
+      "format": "geojson",
+      "language": "de-de",
+      "elevation": true
+    },
+    "engine": {
+      "version": "6.5.0",
+      "build_date": "2021-05-24T06:40:37Z",
+      "graph_date": "2021-05-21T06:00:55Z"
+    }
+  },
+  "type": "FeatureCollection"
+}
